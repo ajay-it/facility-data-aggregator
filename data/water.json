@@ -1,0 +1,5 @@
+[
+  { "facility": "Facility A", "day": "2024-01-01", "water_usage_liters": 100 },
+  { "facility": "Facility A", "day": "2024-01-02", "water_usage_liters": 120 },
+  { "facility": "Facility B", "day": "2024-01-01", "water_usage_liters": 90 }
+]

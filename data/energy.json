@@ -1,0 +1,5 @@
+[
+  { "facility": "Facility A", "month": "January", "energy_consumption_kwh": 1500 },
+  { "facility": "Facility A", "month": "February", "energy_consumption_kwh": 1700 },
+  { "facility": "Facility B", "month": "January", "energy_consumption_kwh": 1200 }
+]

@@ -1,0 +1,5 @@
+[
+  { "facility": "Facility A", "quarter": "Q1", "waste_produced_kg": 300 },
+  { "facility": "Facility A", "quarter": "Q2", "waste_produced_kg": 350 },
+  { "facility": "Facility B", "quarter": "Q1", "waste_produced_kg": 250 }
+]
